@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Ally Karlis</h1>
+
+ <header>
+    <h1>Ally Karlis Portfolio</h1>
     <p>OSU Senior CompSci || Minor in UX Research</p>
   </header>
 
@@ -23,13 +15,14 @@
       <p>Hi, My name is Ally. I'm passionate about building software that solves real problems. Below are some of my academic and personal projects.</p>
     </section>
 
-    <section id="projects">
+    <section>
       <h2>Featured Projects</h2>
       <ul>
         <li><a href="capstone.html">Travel Company Database (Class Project)</a></li>
         <li><a href="projects.html">Kitchen Game (Apple Hacks 2024)</a></li>
       </ul>
     </section>
+
   </main>
 
   <footer>
