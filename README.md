@@ -15,13 +15,11 @@
       <p>Hi, My name is Ally. I'm passionate about building software that solves real problems. Below are some of my academic and personal projects.</p>
     </section>
 
-    <section>
       <h2>Featured Projects</h2>
       <ul>
         <li><a href="capstone.html">Travel Company Database (Class Project)</a></li>
         <li><a href="projects.html">Kitchen Game (Apple Hacks 2024)</a></li>
       </ul>
-    </section>
 
   </main>
 
