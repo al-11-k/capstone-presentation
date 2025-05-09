@@ -1,14 +1,39 @@
-<h1>AgBiz Logic: Measuring Environmental and Economic Trade-offs of Agricultural Chemicals<br/></h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Ally Karlis</h1>
+    <p>OSU Senior CompSci || Minor in UX Research</p>
+  </header>
 
-<h2>Overview</h2>
+  <nav>
+    <a href="capstone.html">Capstone Project</a>
+    <a href="projects.html">Kitchen Project (Apple Hacks 2024)</a>
+  </nav>
 
-<p>This is where the overview will be</p>
+  <main>
+    <section>
+      <h2>Welcome!</h2>
+      <p>Hi, My name is Ally. I'm passionate about building software that solves real problems. Below are some of my academic and personal projects.</p>
+    </section>
 
-<h2>Tools Used</h2>
-- <b>This is where we will list what tools were used and for what</b>
+    <section id="projects">
+      <h2>Featured Projects</h2>
+      <ul>
+        <li><a href="capstone.html">Travel Company Database (Class Project)</a></li>
+        <li><a href="projects.html">Kitchen Game (Apple Hacks 2024)</a></li>
+      </ul>
+    </section>
+  </main>
 
-<h2>Lessons Learned</h2>
-
-<p>This will be the conclusion</p>
-
-<h2>This may be where the link to live demo is (if we do it)</h2>
+  <footer>
+    <p>&copy; 2025 Ally Karlis</p>
+  </footer>
+</body>
+</html>
